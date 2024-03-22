@@ -1,1 +1,3 @@
-<img src="About1bg.jpg" width="1080" height="500">
+This is Mahi Care Front Page
+
+Happy coding!! Yay!!
